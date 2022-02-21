@@ -1,1 +1,1 @@
-"echo text >> newfile"
+echo > up_to_date
