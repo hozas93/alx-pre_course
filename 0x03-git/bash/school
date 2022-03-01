@@ -1,6 +1,10 @@
 #!/bin/bash
+<<<<<<< .merge_file_a10264
 <<<<<<< .merge_file_a18928
 echo "School"
 =======
 echo "The school is open!"
 >>>>>>> .merge_file_a15984
+=======
+echo "The school is open!"
+>>>>>>> .merge_file_a16580

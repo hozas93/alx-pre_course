@@ -1,6 +1,10 @@
 #!/bin/bash
+<<<<<<< .merge_file_a09856
 <<<<<<< .merge_file_a16940
 echo "ALX"
 =======
 echo "ALX School is so cool"
 >>>>>>> .merge_file_a06808
+=======
+echo "ALX School is so cool"
+>>>>>>> .merge_file_a20020
